@@ -9,3 +9,4 @@
 - 上傳網站到 [GitHub Pages](https://pages.github.com)
 
 [`投影片`](https://speakerdeck.com/muan/project-lab-squirrel-number-1)
+[`課程筆記`](https://gist.github.com/muan/2383d8f8700ba363cfe8)
