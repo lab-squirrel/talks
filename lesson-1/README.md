@@ -8,4 +8,4 @@
 - 製作簡單的網頁頁面
 - 上傳網站到 [GitHub Pages](https://pages.github.com)
 
-[`投影片`](html-and-css-and-gh-pages.pdf)
+[`投影片`](https://speakerdeck.com/muan/project-lab-squirrel-number-1)
